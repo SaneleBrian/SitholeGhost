@@ -379,9 +379,12 @@ body.dark #moon{
 }
 .hero-image img{
  position: absolute;
- right: 250px;
+ right: 200px;
  bottom: 0;
- width: 350px;
+ margin-bottom: 30px;
+ width: 500px;
+ border-radius: 15px;
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .clients{
  font-size: 15px;
